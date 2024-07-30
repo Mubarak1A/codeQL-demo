@@ -26,3 +26,4 @@ app.get('/user', (req, res) => {
 app.listen(port, () => {
   console.log(`App running on http://localhost:${port}`);
 });
+// Test CodeQL analysis
